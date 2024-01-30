@@ -1,6 +1,6 @@
 Greetings
 
-My name is Vicente Rafael Milla Carmona. I'm a PhD Student at Univerity of Buenos Aires and a member of Insitute of Basic, Applied and Enviromental Geosciences of Buenos Aires (IGeBa). I'm researching Python and GIS uses for applied geology.
+My name is Vicente Rafael Milla Carmona. I'm a PhD Student at Univerity of Buenos Aires and a member of Insitute of Basic, Applied and Enviromental Geosciences of Buenos Aires (IGeBa) and The National Scientific and Technical Research Council (CONICET). I'm researching Python and GIS uses for applied geology.
 Right now im learning to use Google Earth Engine and ArcGis
 
 Feel free to email me about anything!
